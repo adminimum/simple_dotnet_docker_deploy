@@ -1,0 +1,15 @@
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/bin/Debug/net7.0/DotNet.Docker
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/bin/Debug/net7.0/DotNet.Docker.deps.json
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/bin/Debug/net7.0/DotNet.Docker.runtimeconfig.json
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/bin/Debug/net7.0/DotNet.Docker.dll
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/bin/Debug/net7.0/DotNet.Docker.pdb
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/obj/Debug/net7.0/DotNet.Docker.csproj.AssemblyReference.cache
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/obj/Debug/net7.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/obj/Debug/net7.0/DotNet.Docker.AssemblyInfoInputs.cache
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/obj/Debug/net7.0/DotNet.Docker.AssemblyInfo.cs
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/obj/Debug/net7.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/obj/Debug/net7.0/DotNet.Docker.dll
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/obj/Debug/net7.0/refint/DotNet.Docker.dll
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/obj/Debug/net7.0/DotNet.Docker.pdb
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/obj/Debug/net7.0/DotNet.Docker.genruntimeconfig.cache
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/obj/Debug/net7.0/ref/DotNet.Docker.dll

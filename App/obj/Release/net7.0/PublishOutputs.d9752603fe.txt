@@ -1,0 +1,5 @@
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/out/DotNet.Docker
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/out/DotNet.Docker.dll
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/out/DotNet.Docker.deps.json
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/out/DotNet.Docker.runtimeconfig.json
+/home/maksim_astapkovich/Desktop/learning/net.fram/docker-asp-net-core-sql-server-demo/docker-working/App/out/DotNet.Docker.pdb
